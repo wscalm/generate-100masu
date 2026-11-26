@@ -1,0 +1,2 @@
+# 本番に置かないもの（rsync の --exclude-from 形式。先頭の / はリポジトリ直下の意味）
+/instruction.md
